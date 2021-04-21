@@ -4,8 +4,9 @@
 
 
 
-###Моя статистика:computer:
+### Моя статистика:computer:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&layout=compact)
+
 ![Julia's github stats](https://github-readme-stats.vercel.app/api?username=jtuvaleva)
 
 
