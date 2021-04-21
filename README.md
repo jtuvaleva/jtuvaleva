@@ -5,8 +5,9 @@
 
 
 ### Моя статистика:computer:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course&layout=compact)
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtuvaleva&show_icons=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course&layout=compact)
+
 
 <!--
 **jtuvaleva/jtuvaleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
