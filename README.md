@@ -1,6 +1,8 @@
 ### Всем привет! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva)
+![Julia's github stats](https://github-readme-stats.vercel.app/api?username=jtuvaleva)
+
 
 <!--
 **jtuvaleva/jtuvaleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
