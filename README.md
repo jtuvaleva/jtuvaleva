@@ -5,11 +5,15 @@
 
 
 ### Моя статистика:computer:
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtuvaleva&show_icons=true&hide=issues&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course&layout=compact&hide=jupyter%20notebook)
-
-
+<div>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course&layout=compact&hide=jupyter%20notebook">
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course&layout=compact&hide=jupyter%20notebook"/>
+  </a>
+  
+  <a href="https://github-readme-stats.vercel.app/api?username=jtuvaleva&show_icons=true&hide=issues">
+  <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=jtuvaleva&show_icons=true&hide=issues"/>
+  </a>
+</div>
 
 <!--
 **jtuvaleva/jtuvaleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
