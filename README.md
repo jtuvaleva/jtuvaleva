@@ -1,6 +1,10 @@
 ### Всем привет! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva)
+Меня зовут Юля и я начинающий фронтенд разработчик.
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&layout=compact)]
 ![Julia's github stats](https://github-readme-stats.vercel.app/api?username=jtuvaleva)
 
 
