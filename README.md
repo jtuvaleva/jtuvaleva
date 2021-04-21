@@ -6,7 +6,7 @@
 
 ### Моя статистика:computer:
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtuvaleva&show_icons=true&hide=issues&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course,Geo_preprocessing&layout=compact)
 
 
 <!--
