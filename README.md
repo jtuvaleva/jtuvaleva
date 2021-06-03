@@ -9,6 +9,7 @@
 
 
 ### Моя статистика:computer:
+
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course&layout=compact&hide=jupyter%20notebook">
     <img align="center" height="120" style="margin-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course&layout=compact&hide=jupyter%20notebook"/>
