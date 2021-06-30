@@ -15,7 +15,7 @@
     <img align="center" height="120" style="margin-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course&layout=compact&hide=jupyter%20notebook"/>
   </a>
   
-  <a href="https://github-readme-stats.vercel.app/api?username=jtuvalea&show_icons=true&hide=issues">
+  <a href="https://github-readme-stats.vercel.app/api?username=jtuvaleva&show_icons=true&hide=issues">
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api?username=jtuvaleva&show_icons=true&hide=issues"/>
   </a>
 </div>
