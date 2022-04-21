@@ -1,14 +1,8 @@
-### Всем привет! 👋
+### Hey There! 👋
 
-Меня зовут Юля и я начинающий фронтенд разработчик.
+I'm Julia and I'm a Frontend Developer with almost 1 year of work experience and a passion for web map application and responsive website design. Also with good expertise in data analysis and visualization. 
 
-- Учусь писать красиво на JS
-- Хочу разобраться с новыми фреймворками
-- Раньше занималась анализом пространства
-- Люблю геоданные и карты
-
-
-### Моя статистика:computer:
+### My activity:computer:
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course&layout=compact&hide=jupyter%20notebook">
