@@ -1,6 +1,6 @@
 ### Hey There! 👋
 
-I'm a Frontend Developer with 2 years of work experience and a passion for web map application and responsive website design. Also with good expertise in data analysis and visualization. 
+I'm a Frontend Developer with 2 years of experience and a passion for web map application and responsive website design. Also with good expertise in data analysis and visualization. 
 
 ### My activity:computer:
 
