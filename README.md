@@ -2,7 +2,7 @@
 
 I'm a Frontend Developer with 3 years of experience and a passion for web map application and responsive website design. Also with good expertise in data analysis and visualization. 
 
-### My activity:computer:
+### My activity 💻
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jtuvaleva&exclude_repo=DataGym,spatial-course-binder,Spatial_course&layout=compact&hide=jupyter%20notebook">
